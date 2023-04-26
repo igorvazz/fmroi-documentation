@@ -29,9 +29,9 @@ This is how to include an image to your project
 
 Adding an image
 ==================================
-This is how to include an image to your project
- .. image:: /images/happy-feet.jpeg
-
+.. image:: https://img.youtube.com/vi/DjXPRl799PU/maxresdefault.jpg
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://www.youtube.com/watch?v=DjXPRl799PU
 
 Resizing an image
 ==================================
