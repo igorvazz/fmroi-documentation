@@ -27,6 +27,12 @@ Adding an image
 This is how to include an image to your project
  .. image:: /images/happy-feet.jpeg
 
+Adding an image
+==================================
+This is how to include an image to your project
+ .. image:: /images/happy-feet.jpeg
+
+
 Resizing an image
 ==================================
 This is how to scale or resize an image
