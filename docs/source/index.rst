@@ -14,7 +14,7 @@ This is a heading
 ==================================
 This is some random text for this heading
 
-A link text
+FMROI
 ==================================
 This is how to create a link `here: <https://github.com/proactionlab/fmroi.git/>`_
 
